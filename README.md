@@ -13,9 +13,11 @@ In this project, the VBA script that was made in Module 2 to analyze stocks will
 Figure 1. Runtime of VBA code before refactoring for the year 2017.
 
 
+
 ![VBA_before_challenge_2018](https://user-images.githubusercontent.com/98781992/176048318-90ff814a-5c4d-4ab1-9134-f162b3cca3e8.png)
 
 Figure 2. Runtime of VBA code before refactoring for the year 2018.
+
 
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/98781992/176048542-5ea44f10-a1fa-4937-be0b-60eb24a189c9.png)
@@ -23,9 +25,11 @@ Figure 2. Runtime of VBA code before refactoring for the year 2018.
 Figure 3. Runtime of VBA code after refactoring for the year 2017.
 
 
+
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/98781992/176048653-ff5c1c54-0916-4d3f-92fb-3ca9a641a8de.png)
 
 Figure 4. Runtime of VBA code after refactoring for the year 2018.
+
 
 ## Summary
 
