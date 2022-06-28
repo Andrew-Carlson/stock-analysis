@@ -52,6 +52,6 @@ Figure 4. Runtime of VBA code after refactoring for the year 2018.
 **Disadvantages:** Refactoring code could take a significant time that would be more than the time it takes to run the original code. New bugs in the code could also be introduced. 
 
 ### Advantages and Disadvantages of the Original and Refactored VBA Script
-**Advantages:** The runtime of the VBA script for the 2017 stocks was significantly decreased. (See results) 
+**Advantages:** The runtime of the VBA script was significantly decreased. (See results) 
 
-**Disadvantages:** Interpretation of the refactored code may be more difficult because a nested for loop may be more intuitive for some to understand.
+**Disadvantages:** Interpretation of the refactored code may be more difficult because a nested for loop may be more intuitive for some to understand. Also, there are multiple arrays that are made for the refactored code, which may seem more complicated than the original script that only has one array. 
