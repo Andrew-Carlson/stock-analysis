@@ -35,13 +35,13 @@ Figure 4. Runtime of VBA code after refactoring for the year 2018.
 
 
 
--Result of refactoring (for 2017):
-Decrease in runtime: original runtime - refactored runtime = 0.8867188 - 0.0625 = 0.8242188 seconds
-Percent decrease in runtime for code after refactoring: (decrease in runtime/original runtime) * 100 = (0.8242188/0.8867188) * 100 = 92.95%
+**Result of refactoring (for 2017):**
+- Decrease in runtime: original runtime - refactored runtime = 0.8867188 - 0.0625 = 0.8242188 seconds
+- Percent decrease in runtime for code after refactoring: (decrease in runtime/original runtime) * 100 = (0.8242188/0.8867188) * 100 = 92.95%
 
--Result of refactoring (for 2018):
-Decrease in runtime: original runtime - refactored runtime = 0.8671875 - 0.0625 = 0.8046875 seconds
-Percent decrease in runtime for code after refactoring: (decrease in runtime/original runtime) * 100 = (0.8046875/0.8671875) * 100 = 92.79%
+**Result of refactoring (for 2018):**
+- Decrease in runtime: original runtime - refactored runtime = 0.8671875 - 0.0625 = 0.8046875 seconds
+- Percent decrease in runtime for code after refactoring: (decrease in runtime/original runtime) * 100 = (0.8046875/0.8671875) * 100 = 92.79%
 
 
 ## Summary
